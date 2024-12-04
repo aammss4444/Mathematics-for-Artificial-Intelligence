@@ -1,4 +1,4 @@
-**Mathematics for Artificial Intelligence and Data Science**<br>
+**#Mathematics for Artificial Intelligence and Data Science**<br>
 This repository contains notes, code implementations, and key concepts from the Mathematics - Basics to Advanced for Data Science and GenAI course. The topics covered are fundamental to understanding and solving problems in Artificial Intelligence (AI) and Data Science (DS).
 
 **📋 Topics Covered**<br>
@@ -31,4 +31,4 @@ Offering frameworks for optimization and learning.<br>
 Enabling algorithm development for solving complex problems.<br>
 <br>
 **📚 Resources and References**<br>
-Course: Mathematics - Basics to Advanced for Data Science and GenAI
+Course: Mathematics - Basics to Advanced for Data Science and GenAI by Krish Naik and KRISHAI Technologies.
